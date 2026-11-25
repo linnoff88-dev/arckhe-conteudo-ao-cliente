@@ -6,45 +6,45 @@
 </div>
 
 
-**ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
+**ê°Å¸â¡Â§ê°Å¸â¡Â· [PortuguêÂªs](README.md) êÂ· ê°Å¸â¡Âºê°Å¸â¡Â¸ [English](README.en.md) êÂ· ê°Å¸â¡Âªê°Å¸â¡Â¸ [EspaêÂ±ol](README.es.md)**
 
-[![Do conteÃºdo ao cliente](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
+[![Do conteêÂºdo ao cliente](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
-## O que Ã©
+## O que êÂ©
 
-Esta pÃ¡gina junta cinco peÃ§as que jÃ¡ existem separadas no ARCKHÉ e mostra como elas se encaixam. SÃ£o quatro ferramentas gratuitas, que rodam no terminal do seu computador com a ajuda do Claude Code (um assistente de IA que trabalha ali), e um curso curto. Servem para quem cria conteÃºdo (sozinho ou numa empresa pequena) e se perde entre escolher o assunto, produzir, publicar e responder. Cada peÃ§a cuida de uma etapa: achar a pauta do dia, ver o que jÃ¡ funcionou nos seus canais, montar o carrossel, entregar o material para quem comenta e passar o resto da rotina para um agente. Cada uma tem o seu guia e funciona sozinha. VocÃª pode usar uma sÃ³ ou as cinco juntas.
+Esta pêÂ¡gina junta cinco peêÂ§as que jêÂ¡ existem separadas no ARCKHê e mostra como elas se encaixam. SêÂ£o quatro ferramentas gratuitas, que rodam no terminal do seu computador com a ajuda do Claude Code (um assistente de IA que trabalha ali), e um curso curto. Servem para quem cria conteêÂºdo (sozinho ou numa empresa pequena) e se perde entre escolher o assunto, produzir, publicar e responder. Cada peêÂ§a cuida de uma etapa: achar a pauta do dia, ver o que jêÂ¡ funcionou nos seus canais, montar o carrossel, entregar o material para quem comenta e passar o resto da rotina para um agente. Cada uma tem o seu guia e funciona sozinha. VocêÂª pode usar uma sêÂ³ ou as cinco juntas.
 
-## ðŸ“– Guia de uso
+## ê°Å¸ââ Guia de uso
 
-PÃ¡gina completa (o que cada peÃ§a faz + passo a passo): **https://linnoff88-dev.github.io/
+PêÂ¡gina completa (o que cada peêÂ§a faz + passo a passo): **https://linnoff88-dev.github.io/
 
-## As 5 peÃ§as
+## As 5 peêÂ§as
 
-| # | PeÃ§a | O que faz | Guia |
+| # | PeêÂ§a | O que faz | Guia |
 |---|---|---|---|
-| 1 | ðŸ“¡ radar-pautas | LÃª ~20 sites de notÃ­cias de IA e devolve as 6 pautas mais quentes do dia, com link conferido | [guia](https://linnoff88-dev.github.io/ |
-| 2 | ðŸ“ˆ muse-canais | Acha os vÃ­deos recentes 2Ã— acima do normal dos seus canais do YouTube e propÃµe 8 ideias | [guia](https://linnoff88-dev.github.io/ |
-| 3 | ðŸ–¼ï¸ carrossel-ARCKHÉ | Skill do Claude Code: capa, slides, "comenta PALAVRA" e 3 stories no tamanho certo | [guia](https://linnoff88-dev.github.io/ |
-| 4 | ðŸ’¬ lead-comenta | PÃ¡gina do material grÃ¡tis de quem comenta + textos de resposta prontos | [guia](https://linnoff88-dev.github.io/ |
-| 5 | ðŸ§¹ Curso | Entregue o trabalho chato a um agente â€” 8 aulas, pelo chat ou pelo terminal | [curso](https://linnoff88-dev.github.io/ |
+| 1 | ê°Å¸âÂ¡ radar-pautas | LêÂª ~20 sites de notêÂ­cias de IA e devolve as 6 pautas mais quentes do dia, com link conferido | [guia](https://linnoff88-dev.github.io/ |
+| 2 | ê°Å¸âË muse-canais | Acha os vêÂ­deos recentes 2êâ acima do normal dos seus canais do YouTube e propêÂµe 8 ideias | [guia](https://linnoff88-dev.github.io/ |
+| 3 | ê°Å¸âÂ¼ê¯Â¸Â carrossel-ARCKHê | Skill do Claude Code: capa, slides, "comenta PALAVRA" e 3 stories no tamanho certo | [guia](https://linnoff88-dev.github.io/ |
+| 4 | ê°Å¸âÂ¬ lead-comenta | PêÂ¡gina do material grêÂ¡tis de quem comenta + textos de resposta prontos | [guia](https://linnoff88-dev.github.io/ |
+| 5 | ê°Å¸Â§Â¹ Curso | Entregue o trabalho chato a um agente ê¢â¬â 8 aulas, pelo chat ou pelo terminal | [curso](https://linnoff88-dev.github.io/ |
 
-## O processo, do inÃ­cio ao fim
+## O processo, do inêÂ­cio ao fim
 
-| Passo | O quÃª | Comando | Quem faz |
+| Passo | O quêÂª | Comando | Quem faz |
 |---|---|---|---|
-| 1 | Achar a pauta do dia | `python3 radar.py --dry` (no radar-pautas) | âš™ï¸ script |
-| 2 | Ver o que jÃ¡ funcionou | `python3 muse.py --ideias` (no muse-canais) | âš™ï¸ script + ðŸ¤– Claude Code |
-| 3 | Fazer o carrossel | pedir ao Claude Code com a skill carrossel-ARCKHÉ ligada | ðŸ¤– Claude Code |
-| 4 | Conferir os slides | `python3 scripts/checa.py <pasta> <roteiro.json>` | âš™ï¸ script |
-| 5 | Preparar o material de quem comenta | `python3 lead.py nova PALAVRA --tema "..." --fonte <url>` | ðŸ¤– Claude Code |
-| 6 | Aprovar e postar | vocÃª olha tudo e publica | ðŸ§  vocÃª |
-| 7 | Delegar a rotina | seguir o curso trabalho-chato-ao-agente | ðŸ§  vocÃª |
+| 1 | Achar a pauta do dia | `python3 radar.py --dry` (no radar-pautas) | ê¢Å¡â¢ê¯Â¸Â script |
+| 2 | Ver o que jêÂ¡ funcionou | `python3 muse.py --ideias` (no muse-canais) | ê¢Å¡â¢ê¯Â¸Â script + ê°Å¸Â¤â Claude Code |
+| 3 | Fazer o carrossel | pedir ao Claude Code com a skill carrossel-ARCKHê ligada | ê°Å¸Â¤â Claude Code |
+| 4 | Conferir os slides | `python3 scripts/checa.py <pasta> <roteiro.json>` | ê¢Å¡â¢ê¯Â¸Â script |
+| 5 | Preparar o material de quem comenta | `python3 lead.py nova PALAVRA --tema "..." --fonte <url>` | ê°Å¸Â¤â Claude Code |
+| 6 | Aprovar e postar | vocêÂª olha tudo e publica | ê°Å¸Â§Â  vocêÂª |
+| 7 | Delegar a rotina | seguir o curso trabalho-chato-ao-agente | ê°Å¸Â§Â  vocêÂª |
 
-Este repositÃ³rio tem sÃ³ a pÃ¡gina. O cÃ³digo de cada ferramenta estÃ¡ no repositÃ³rio dela.
+Este repositêÂ³rio tem sêÂ³ a pêÂ¡gina. O cêÂ³digo de cada ferramenta estêÂ¡ no repositêÂ³rio dela.
 
 ---
 
-[ARCKHÉ AI](https://ARCKHÉ AI)
+[ARCKHê AI](https://ARCKHê AI)
 
 ---
 

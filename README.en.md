@@ -1,6 +1,6 @@
 # conteudo-ao-cliente
 
-**ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
+**ðŸ‡§ðŸ‡· [Português](README.md) Â· ðŸ‡ºðŸ‡¸ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [Espaê±ol](README.es.md)**
 
 [![From content to client](guia/assets/banner-en.jpg)](https://linnoff88-dev.github.io/
 
@@ -17,7 +17,7 @@ Full page (what each piece does + step-by-step instructions): **https://linnoff8
 | # | Piece | What it does | Guide |
 |---|---|---|---|
 | 1 | ðŸ“¡ radar-pautas | Reads ~20 AI news sites and returns the 6 hottest topics of the day, with verified links | [guide](https://linnoff88-dev.github.io/ |
-| 2 | ðŸ“ˆ muse-canais | Finds recent videos on your YouTube channels that are 2Ã— above normal and suggests 8 ideas | [guide](https://linnoff88-dev.github.io/ |
+| 2 | ðŸ“ˆ muse-canais | Finds recent videos on your YouTube channels that are 2ê— above normal and suggests 8 ideas | [guide](https://linnoff88-dev.github.io/ |
 | 3 | ðŸ–¼ï¸ carrossel-ARCKHÉ | Claude Code skill: cover, slides, â€œcomment WORD,â€ and 3 stories in the right dimensions | [guide](https://linnoff88-dev.github.io/ |
 | 4 | ðŸ’¬ lead-comenta | Free resource page for people who comment, plus ready-to-use reply messages | [guide](https://linnoff88-dev.github.io/ |
 | 5 | ðŸ§¹ Course | Hand the tedious work to an agent â€” 8 lessons, through chat or the terminal | [course](https://linnoff88-dev.github.io/ |
